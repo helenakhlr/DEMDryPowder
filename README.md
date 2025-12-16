@@ -38,9 +38,14 @@ brew install graphviz
 Now, to run it in the MercuryDPM framework, the following steps need to be followed:
 1. 
 ```
+mkdir MercuryDPM
+cd MercuryDPM
+```
+2. 
+```
 git clone https://bitbucket.org/mercurydpm/mercurydpm.git MercurySource
 ```
-2.
+3.
 ```
 mkdir MercuryBuild
 cd MercuryBuild

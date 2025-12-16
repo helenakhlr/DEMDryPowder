@@ -72,7 +72,7 @@ run
 ```	
 ./Tutorial11_AxisymmetricWalls
 ```	
-and output files of type .vtu will be generated in the folder
+and output files of type .vtu will be generated in the folder (MercuryDPM/MercuryBuild/Drivers/Tutorials/) with the name specified in the code ("DEMDryPowder...")
 
 
 

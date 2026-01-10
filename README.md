@@ -57,7 +57,8 @@ cmake ../MercurySource
 Note: you can also build in Release mode:
 ```	
 cmake ../MercurySource  -DCMAKE_BUILD_TYPE=Release
-```	
+cmake --build .
+```
 Compile and test the installation:
 ```	
 make fullTest
